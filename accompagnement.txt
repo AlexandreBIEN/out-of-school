@@ -1,0 +1,16 @@
+Restitution du besoin :
+
+    L'objectif du site est de découvrir les principaux pionniers et leurs histoires ainsi que la diminution de femme dans les métiers du numérique.
+
+
+
+Note technique sur le framework :
+
+    J'ai utilisé Bootstrap 4 car c'est le framework que l'on a le plus travaillé et dont je me sens le plus à l'aise en l'utilisant.
+
+
+
+Conclusion sur les difficultés rencontrées, les progrès réalisés :
+
+    J'ai eu beaucoup de difficultés pour chercher des images libres de droits et pour les textes biographiques.
+    Je pense que j'ai fait quelques progrès dans l'utilisation de Bootstrap en cherchant à régler des problèmes que je n'avais pas rencontrés avant.

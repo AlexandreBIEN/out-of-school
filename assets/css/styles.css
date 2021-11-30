@@ -1,0 +1,22 @@
+.nav-item a {
+    color: black;
+}
+.lightHover:hover {
+    color: white;
+}
+.container {
+    max-width: 600px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+form {
+    padding: 2rem;
+}
+form button {
+    margin-top: 2rem;
+}
+img {
+    min-height: 160px;
+    min-width: 180px;
+}
