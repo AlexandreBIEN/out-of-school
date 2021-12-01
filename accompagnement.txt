@@ -12,5 +12,5 @@ Note technique sur le framework :
 
 Conclusion sur les difficultés rencontrées, les progrès réalisés :
 
-    J'ai eu beaucoup de difficultés pour chercher des images libres de droits et pour les textes biographiques.
+    J'ai eu beaucoup de difficultés pour chercher des images libres de droits et pour écrire les textes biographiques.
     Je pense que j'ai fait quelques progrès dans l'utilisation de Bootstrap en cherchant à régler des problèmes que je n'avais pas rencontrés avant.
